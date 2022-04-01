@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "이태현"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "개발자를 꿈꾸며 열심히 살아가고  "
+#   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
